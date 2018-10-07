@@ -2,26 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0058199c-7f15-4bfe-ae66-9c3339a159f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/AccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/SignPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selenium/WebdriverInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/OrderPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/rest/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/rest/Model.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/selenium/BrowserRuleFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/resources/testContainers.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/BrowserRuleFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/testContainers.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/rest/Rest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/rest/Rest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/rest/Rest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/rest/Rest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rest/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rest/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/AccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/AccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/SignPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/SignPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/rest/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rest/Rest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/WebdriverInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/WebdriverInitializer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/modules/target/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -100,12 +92,14 @@
     <session id="-1496544968">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -114,30 +108,30 @@
         <counts>
           <entry key="dummy" value="11" />
           <entry key="gradle" value="10" />
-          <entry key="java" value="524" />
-          <entry key="txt" value="15" />
+          <entry key="java" value="2042" />
+          <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="12" />
+          <entry key="Groovy" value="2" />
+          <entry key="JAVA" value="47" />
           <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="10" />
-          <entry key="JAVA" value="524" />
-          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="JAVA" value="2042" />
+          <entry key="PLAIN_TEXT" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gradle" value="1" />
-          <entry key="java" value="12" />
+          <entry key="gradle" value="2" />
+          <entry key="java" value="47" />
           <entry key="properties" value="1" />
         </counts>
       </usages-collector>
@@ -145,70 +139,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/Runner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/selenium/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/WebdriverInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/selenium/SignPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/rest/Rest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rest/Model.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/selenium/Page.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.22/38bc39b0677b208aeacbdc2d30e8499663687373/lombok-1.16.22-sources.jar!/lombok/Data.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.22/38bc39b0677b208aeacbdc2d30e8499663687373/lombok-1.16.22-sources.jar!/lombok/AllArgsConstructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/rest/Initializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -226,6 +197,8 @@
     <findStrings>
       <find>ł</find>
       <find>ca</find>
+      <find>visibi</find>
+      <find>action</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -615,13 +588,17 @@
         <option value="$PROJECT_DIR$/src/test/java/selenium/BrowserRuleFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/WebdriverSetup.java" />
         <option value="$PROJECT_DIR$/src/main/java/selenium/MyAccountPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/selenium/AccountPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/selenium/Page.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/WebdriverInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/selenium/SignPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/Runner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/selenium/HomePage.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/SignPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/AccountPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/OrderPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selenium/Page.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/Runner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/WebdriverInitializer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/rest/Initializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rest/Model.java" />
+        <option value="$PROJECT_DIR$/src/test/java/rest/Rest.java" />
       </list>
     </option>
   </component>
@@ -632,10 +609,30 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="761" />
+    <option name="x" value="760" />
     <option name="y" value="90" />
     <option name="width" value="1940" />
     <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>IgnoreResultOfCall</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -643,7 +640,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -657,66 +653,17 @@
               <item name="test4prodata" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="test4prodata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test4prodata" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="test4prodata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test4prodata" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test4prodata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test4prodata" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test4prodata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test4prodata" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="test4prodata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test4prodata" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test4prodata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test4prodata" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test4prodata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test4prodata" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538505303397" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538915022041" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -739,86 +686,80 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Runner.shouldRegisterNewUser">
+  <component name="RunManager" selected="JUnit.Rest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test4prodata [clean build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <method v="2" />
-    </configuration>
-    <configuration name="test4prodata [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <method v="2" />
-    </configuration>
-    <configuration name="test4prodata [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="compileJava" />
-          </list>
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <method v="2" />
-    </configuration>
-    <configuration name="BrowserRuleFactory.simplePlainSeleniumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Rest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test4prodata_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selenium.*" />
+          <option name="PATTERN" value="rest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="selenium" />
-      <option name="MAIN_CLASS_NAME" value="selenium.BrowserRuleFactory" />
-      <option name="METHOD_NAME" value="simplePlainSeleniumTest" />
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.Rest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rest.shouldAddNewCommentForPostIdReturnedFromSecondScenario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test4prodata_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.Rest" />
+      <option name="METHOD_NAME" value="shouldAddNewCommentForPostIdReturnedFromSecondScenario" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner.shouldRegisterNewUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Rest.shouldGetHighestValueForId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test4prodata_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.Rest" />
+      <option name="METHOD_NAME" value="shouldGetHighestValueForId" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rest.shouldGetHighestValueForUserId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test4prodata_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.Rest" />
+      <option name="METHOD_NAME" value="shouldGetHighestValueForUserId" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test4prodata_test" />
       <extension name="coverage">
         <pattern>
@@ -828,8 +769,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="selenium" />
       <option name="MAIN_CLASS_NAME" value="selenium.Runner" />
-      <option name="METHOD_NAME" value="shouldRegisterNewUser" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -850,19 +789,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.BrowserRuleFactory.simplePlainSeleniumTest" />
-      <item itemvalue="JUnit.Runner.shouldRegisterNewUser" />
-      <item itemvalue="Gradle.test4prodata [clean build]" />
-      <item itemvalue="Gradle.test4prodata [compileJava]" />
-      <item itemvalue="Gradle.test4prodata [clean]" />
+      <item itemvalue="JUnit.Runner" />
+      <item itemvalue="JUnit.Rest" />
+      <item itemvalue="JUnit.Rest.shouldGetHighestValueForUserId" />
+      <item itemvalue="JUnit.Rest.shouldAddNewCommentForPostIdReturnedFromSecondScenario" />
+      <item itemvalue="JUnit.Rest.shouldGetHighestValueForId" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Runner.shouldRegisterNewUser" />
-        <item itemvalue="Gradle.test4prodata [clean]" />
-        <item itemvalue="Gradle.test4prodata [compileJava]" />
-        <item itemvalue="Gradle.test4prodata [clean build]" />
-        <item itemvalue="JUnit.BrowserRuleFactory.simplePlainSeleniumTest" />
+        <item itemvalue="JUnit.Rest" />
+        <item itemvalue="JUnit.Rest.shouldGetHighestValueForId" />
+        <item itemvalue="JUnit.Rest.shouldGetHighestValueForUserId" />
+        <item itemvalue="JUnit.Rest.shouldAddNewCommentForPostIdReturnedFromSecondScenario" />
+        <item itemvalue="JUnit.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -880,44 +819,54 @@
       <workItem from="1538492865159" duration="626000" />
       <workItem from="1538493679941" duration="3650000" />
       <workItem from="1538501170303" duration="3715000" />
-      <workItem from="1538504938908" duration="310000" />
+      <workItem from="1538504938908" duration="1686000" />
+      <workItem from="1538809639055" duration="13000" />
+      <workItem from="1538809703229" duration="18830000" />
     </task>
+    <task id="LOCAL-00001" summary="selenium tests">
+      <created>1538505411000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538505411000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BrowserRuleFactory_simplePlainSeleniumTest - 2018.10.02 at 17h 32m 58s.xml">
-      <configuration name="BrowserRuleFactory.simplePlainSeleniumTest" configurationId="JUnit" />
+    <history-entry file="Rest - 2018.10.07 at 10h 18m 49s.xml">
+      <configuration name="Rest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BrowserRuleFactory_simplePlainSeleniumTest - 2018.10.02 at 17h 34m 17s.xml">
-      <configuration name="BrowserRuleFactory.simplePlainSeleniumTest" configurationId="JUnit" />
+    <history-entry file="Rest - 2018.10.07 at 10h 20m 07s.xml">
+      <configuration name="Rest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner_shouldRegisterNewUser - 2018.10.02 at 18h 14m 38s.xml">
-      <configuration name="Runner.shouldRegisterNewUser" configurationId="JUnit" />
+    <history-entry file="Rest_shouldAddNewCommentForPostIdReturnedFromSecondScenario - 2018.10.07 at 10h 21m 16s.xml">
+      <configuration name="Rest.shouldAddNewCommentForPostIdReturnedFromSecondScenario" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner_shouldRegisterNewUser - 2018.10.02 at 19h 36m 05s.xml">
-      <configuration name="Runner.shouldRegisterNewUser" configurationId="JUnit" />
+    <history-entry file="Rest_shouldAddNewCommentForPostIdReturnedFromSecondScenario - 2018.10.07 at 10h 21m 30s.xml">
+      <configuration name="Rest.shouldAddNewCommentForPostIdReturnedFromSecondScenario" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner_shouldRegisterNewUser - 2018.10.02 at 19h 43m 09s.xml">
-      <configuration name="Runner.shouldRegisterNewUser" configurationId="JUnit" />
+    <history-entry file="Rest_shouldGetHighestValueForUserId - 2018.10.07 at 10h 21m 41s.xml">
+      <configuration name="Rest.shouldGetHighestValueForUserId" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner_shouldRegisterNewUser - 2018.10.02 at 19h 48m 01s.xml">
-      <configuration name="Runner.shouldRegisterNewUser" configurationId="JUnit" />
+    <history-entry file="Rest_shouldGetHighestValueForUserId - 2018.10.07 at 10h 22m 49s.xml">
+      <configuration name="Rest.shouldGetHighestValueForUserId" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner_shouldRegisterNewUser - 2018.10.02 at 19h 54m 27s.xml">
-      <configuration name="Runner.shouldRegisterNewUser" configurationId="JUnit" />
+    <history-entry file="Rest_shouldGetHighestValueForId - 2018.10.07 at 10h 23m 03s.xml">
+      <configuration name="Rest.shouldGetHighestValueForId" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner_shouldRegisterNewUser - 2018.10.02 at 19h 59m 44s.xml">
-      <configuration name="Runner.shouldRegisterNewUser" configurationId="JUnit" />
+    <history-entry file="Rest_shouldGetHighestValueForId - 2018.10.07 at 10h 23m 25s.xml">
+      <configuration name="Rest.shouldGetHighestValueForId" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner_shouldRegisterNewUser - 2018.10.02 at 20h 00m 22s.xml">
-      <configuration name="Runner.shouldRegisterNewUser" configurationId="JUnit" />
+    <history-entry file="Rest_shouldGetHighestValueForId - 2018.10.07 at 10h 24m 07s.xml">
+      <configuration name="Rest.shouldGetHighestValueForId" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner_shouldRegisterNewUser - 2018.10.02 at 20h 02m 55s.xml">
-      <configuration name="Runner.shouldRegisterNewUser" configurationId="JUnit" />
+    <history-entry file="Rest - 2018.10.07 at 10h 24m 24s.xml">
+      <configuration name="Rest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33523000" />
+    <option name="totallyTimeSpent" value="53742000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -930,9 +879,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27114093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -944,14 +892,15 @@
       <window_info anchor="bottom" id="Build" order="2" weight="0.32925472" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.18914956" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.398827" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.2888563" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.102639295" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32925472" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" weight="0.19061583" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32925472" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" visible="true" weight="0.19061583" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32844576" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32844576" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" side_tool="true" weight="0.3295302" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1001,9 +950,16 @@
       <path value="$PROJECT_DIR$/.." />
       <path value="$PROJECT_DIR$/test4prodata" />
     </ignored-roots>
+    <MESSAGE value="selenium tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium tests" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>textToBePresentInElement(element, &quot;Product successfully added to your shopping cart&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>given().when().get(&quot;/posts&quot;)</expression-string>
         <language-id>JAVA</language-id>
@@ -1029,13 +985,6 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.22/38bc39b0677b208aeacbdc2d30e8499663687373/lombok-1.16.22-sources.jar!/lombok/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/3.1.1/4ce07f29c284acc91df07fbb79c5b681c2618ae1/rest-assured-3.1.1-sources.jar!/io/restassured/response/ResponseOptions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -1046,40 +995,8 @@
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/rest/Rest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/rest/Initializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/testContainers.properties" />
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/BrowserRuleFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/rest/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/AccountPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/25.0-jre/30ade485699e7782cc2369b0e5d3d8e0bfc317c/guava-25.0-jre-sources.jar!/com/google/common/collect/RegularImmutableMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -1105,32 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="322" selection-start-line="322" selection-end-line="322" />
-          <folding>
-            <element signature="e#11422#11423#0" expanded="true" />
-            <element signature="e#11459#11460#0" expanded="true" />
-            <element signature="e#13344#13345#0" expanded="true" />
-            <element signature="e#13385#13386#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/WebdriverInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1138,46 +1029,152 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="187" selection-start-line="187" selection-end-line="187" />
-          <folding>
-            <element signature="e#2059#2060#0" expanded="true" />
-            <element signature="e#2088#2089#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/Runner.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.14.0/ca6132159a19ff765f46742a78c7f985cb44be7d/selenium-support-3.14.0-sources.jar!/org/openqa/selenium/support/ui/FluentWait.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        <state relative-caret-position="118">
+          <caret line="253" column="15" selection-start-line="253" selection-start-column="15" selection-end-line="253" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="64" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/Page.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="124">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <element signature="e#1439#1440#0" expanded="true" />
+            <element signature="e#1482#1483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.14.0/8c0af6fdccdc89a4394de7e3a8817ed2d6e41d7d/selenium-api-3.14.0-sources.jar!/org/openqa/selenium/WebElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="193" column="10" selection-start-line="193" selection-start-column="10" selection-end-line="193" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/3.14.0/ca6132159a19ff765f46742a78c7f985cb44be7d/selenium-support-3.14.0-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="988" column="43" selection-start-line="988" selection-start-column="43" selection-end-line="988" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#10331#10332#0" expanded="true" />
+            <element signature="e#10386#10387#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/selenium/SignPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/OrderPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selenium/AccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/WebdriverInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/rest/Initializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.22/38bc39b0677b208aeacbdc2d30e8499663687373/lombok-1.16.22-sources.jar!/lombok/AllArgsConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.22/38bc39b0677b208aeacbdc2d30e8499663687373/lombok-1.16.22-sources.jar!/lombok/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rest/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/rest/Rest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>

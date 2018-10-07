@@ -11,7 +11,7 @@ class SignPage extends Page {
         super(driver);
     }
 
-    AccountPage createAccount() throws InterruptedException {
+    AccountPage registerNewUser() throws InterruptedException {
         String email = randomEmail();
         insertText(By.name("email_create"), email);
         clickButton(By.id("SubmitCreate"));

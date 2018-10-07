@@ -9,19 +9,18 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.util.concurrent.TimeUnit;
 
-public class WebdriverInitializer {
+class WebdriverInitializer {
 
-     JavascriptExecutor js;
-     WebDriver driver;
-     String url = "http://automationpractice.com/";
+    WebDriver driver;
 
     @Before
     public void setUp() {
         ChromeOptions chromeOptions = new ChromeOptions();
         chromeOptions.addArguments("--start-maximized");
-        js = (JavascriptExecutor) driver;
+        JavascriptExecutor js = (JavascriptExecutor) driver;
         driver = new ChromeDriver(chromeOptions);
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+        String url = "http://automationpractice.com/";
         driver.get(url);
     }
 

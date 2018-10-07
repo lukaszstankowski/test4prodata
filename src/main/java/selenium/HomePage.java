@@ -13,4 +13,11 @@ class HomePage extends Page {
         clickButton(By.className("login"));
         return new SignPage(driver);
     }
+
+    void authorize() {
+        clickButton(By.className("login"));
+        insertText(By.id("email"), "test008@gmail.com");
+        insertText(By.id("passwd"), "123456");
+        clickButton(By.xpath("//*[@id=\"SubmitLogin\"]/span"));
+    }
 }

@@ -26,7 +26,6 @@ public class Rest extends Initializer {
         List<Model> list = objectMapper.readValue(responseBody, new TypeReference<List<Model>>() {
         });
 
-
         Long highestValue = list.stream().max(comparing(v -> v.userId)).orElseThrow(NoSuchElementException::new).userId;
         System.out.println("Highest value returned from the request for userId: " + highestValue);
     }
@@ -41,7 +40,7 @@ public class Rest extends Initializer {
         });
 
         Model model = list.stream().max(comparing(v -> v.id)).orElseThrow(NoSuchElementException::new);
-        System.out.println("For user: " + model.userId + " the highest value returned from request for id is: " + model.id);
+        System.out.println("For user ID: " + model.userId + " the highest value returned from request for id is: " + model.id);
     }
 
     @Test
@@ -54,6 +53,5 @@ public class Rest extends Initializer {
                 .post("/comments");
 
         assert response.statusCode() == HttpStatus.SC_CREATED;
-        response.body().prettyPeek();
     }
 }
