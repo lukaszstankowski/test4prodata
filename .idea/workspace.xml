@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0058199c-7f15-4bfe-ae66-9c3339a159f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/selenium/OrderPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/rest/Rest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/rest/Rest$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/rest/Rest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/rest/Rest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rest/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rest/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/AccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/AccountPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selenium/SignPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selenium/SignPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/rest/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rest/Rest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/selenium/WebdriverInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selenium/WebdriverInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/rest/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/rest/Model.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/modules/target/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -109,7 +98,7 @@
           <entry key="dummy" value="11" />
           <entry key="gradle" value="10" />
           <entry key="java" value="2042" />
-          <entry key="txt" value="29" />
+          <entry key="txt" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -125,7 +114,7 @@
         <counts>
           <entry key="Groovy" value="10" />
           <entry key="JAVA" value="2042" />
-          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="PLAIN_TEXT" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -663,7 +652,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538915022041" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538915149996" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -821,7 +810,7 @@
       <workItem from="1538501170303" duration="3715000" />
       <workItem from="1538504938908" duration="1686000" />
       <workItem from="1538809639055" duration="13000" />
-      <workItem from="1538809703229" duration="18830000" />
+      <workItem from="1538809703229" duration="19130000" />
     </task>
     <task id="LOCAL-00001" summary="selenium tests">
       <created>1538505411000</created>
@@ -830,7 +819,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538505411000</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished tests">
+      <created>1538915142581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538915142581</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -866,7 +862,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53742000" />
+    <option name="totallyTimeSpent" value="54042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -951,7 +947,8 @@
       <path value="$PROJECT_DIR$/test4prodata" />
     </ignored-roots>
     <MESSAGE value="selenium tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="selenium tests" />
+    <MESSAGE value="finished tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished tests" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
